@@ -1,0 +1,79 @@
+Bank Admin menu:
+please enter a menu option
+(1):Add customer to the bank
+(2):change customer name
+(3):check account balance
+(4)modify accont balance
+(5)summary of all accounts
+(-1):quit
+1
+bank add customer menu
+please enter an account balance
+110
+please enter account holder name:
+tharun
+customers ID   is0
+Bank Admin menu:
+please enter a menu option
+(1):Add customer to the bank
+(2):change customer name
+(3):check account balance
+(4)modify accont balance
+(5)summary of all accounts
+(-1):quit
+1
+bank add customer menu
+please enter an account balance
+550
+please enter account holder name:
+abhi
+customers ID   is1
+Bank Admin menu:
+please enter a menu option
+(1):Add customer to the bank
+(2):change customer name
+(3):check account balance
+(4)modify accont balance
+(5)summary of all accounts
+(-1):quit
+1
+bank add customer menu
+please enter an account balance
+650
+please enter account holder name:
+mic
+customers ID   is2
+Bank Admin menu:
+please enter a menu option
+(1):Add customer to the bank
+(2):change customer name
+(3):check account balance
+(4)modify accont balance
+(5)summary of all accounts
+(-1):quit
+3
+bank check balance menu
+please enter a CUSTOMER ID ID to check the balance
+3
+this custmer has+ $0.0in their account
+Bank Admin menu:
+please enter a menu option
+(1):Add customer to the bank
+(2):change customer name
+(3):check account balance
+(4)modify accont balance
+(5)summary of all accounts
+(-1):quit
+3
+bank check balance menu
+please enter a CUSTOMER ID ID to check the balance
+2
+this custmer has+ $650.0in their account
+Bank Admin menu:
+please enter a menu option
+(1):Add customer to the bank
+(2):change customer name
+(3):check account balance
+(4)modify accont balance
+(5)summary of all accounts
+(-1):quit
